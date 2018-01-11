@@ -8,6 +8,7 @@
   },
   "scripts": {},
   "author": "Renato Lombardero",
+  "repository": "github:renalombardero/cpf-gen",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
